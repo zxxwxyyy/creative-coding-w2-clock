@@ -4,7 +4,7 @@
 function setup() {
   createCanvas(500, 500);
   angleMode(DEGREES);
-  colorMode(HSB, 360, 100, 100, 100);
+  colorMode(HSB, 360, 100, 100);
 
 }
 
